@@ -1,12 +1,12 @@
 [project]
-name = "pyana"
+name = "devpk"
 version = "0.1.0"
-description = "Analysis library set. Including data analysis, plotting, etc."
+description = "Development package set."
 authors = [
     {name = "svtter", email = "svtter@qq.com"},
 ]
 dependencies = [
-        "pytest>=8.3.3",
+    "pytest>=8.3.3",
     "ruff>=0.7.0",
     "ipykernel>=6.29.5",
     "jupyter>=1.1.1",

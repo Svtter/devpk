@@ -1,6 +1,6 @@
 [project]
 name = "devpk"
-version = "0.1.0"
+version = "0.2.0"
 description = "Development package set."
 authors = [
     {name = "svtter", email = "svtter@qq.com"},
